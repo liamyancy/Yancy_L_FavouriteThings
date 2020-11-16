@@ -1,0 +1,14 @@
+@media screen and (max-width: 375px) {
+    footer {
+        div {
+            background-color: black;
+            p {
+                font-family: $main-font;
+                font-size: $main-font-size;
+                text-align: center;
+                color: white;
+                padding: 5px;
+            }
+        }
+    }
+}
