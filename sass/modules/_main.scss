@@ -1,0 +1,23 @@
+@media screen and (max-width: 375px) {
+    main {
+        .user-section {
+            padding: 10px;
+            font-family: $main-font;
+
+            img {
+                width: 100%;
+                
+            }
+
+            h2 {
+                font-size: $main-header-size;
+                text-align: center;
+            }
+
+            p {
+                font-size: $main-font-size;
+                margin-bottom: 50px;
+            }
+        }
+    }
+}
