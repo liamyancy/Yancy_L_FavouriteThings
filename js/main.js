@@ -25,9 +25,6 @@ import { fetchData } from "./modules/TheDataMiner.js";
             userSection.appendChild(currentUser);
         }
 
-        //populate a lightbox with this data
-        let lightbox = document.querySelector(".lightbox")
-
     }
 
     function retrieveProjectInfo() {
