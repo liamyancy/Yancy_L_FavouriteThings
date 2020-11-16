@@ -1,10 +1,10 @@
 # Favourite Things
 
 ### Description
-This is a website that showcases my favourite things.
+This is a website that showcases my favourite things. This site works by taking information from a database made in PHPMyAdmin and places the content on the page. This site utilizes AJAX, SASS, JavaScript, and PHP to function.
 
 ### Prerequisites
-- Browser to run HTML, CSS, and JavaScript
+- Browser to run HTML, CSS, PHP, and JavaScript
 - Github
 
 ### Authors
